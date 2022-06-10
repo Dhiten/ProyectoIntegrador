@@ -5,5 +5,5 @@ En la carpeta DataSet se encontrarán los datos usados antes y después de la li
 # Extra:
 En caso de querer probar el archivo: 
 1. Reemplazar por:
-*df= pd.read_csv("/content/drive/Shareddrives/Cálculo/DataSetDefFixed.csv",encoding='latin-1')
-*df= pd.read_csv("ruta donde tengan el dataset",encoding='latin-1')
+* df= pd.read_csv("/content/drive/Shareddrives/Cálculo/DataSetDefFixed.csv",encoding='latin-1')
+* df= pd.read_csv("ruta donde tengan el dataset",encoding='latin-1')
